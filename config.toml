@@ -1,6 +1,6 @@
-baseurl                 = "/"               # Your domain name. Must end with "/"
+baseurl                 = "www.datawrangling.com/"               # Your domain name. Must end with "/"
 languageCode            = "en-us"
-title                   = "UC Data Wrangling"
+title                   = "Data Wrangling UC DATA201"
 theme = "hugo-theme-sam"
 pygmentsStyle           = "manni"                     # https://help.farbox.com/pygments.html
 pygmentsCodefences      = true
@@ -9,12 +9,12 @@ pygmentsCodefences      = true
 [params]
     dateform            = "Mon Jan 02, 2006"
     dateformfull        = "Mon Jan 2 2006 15:04:05 EST"
-    favicon             = "/sam.ico"
+#    favicon             = "/sam.ico"
     homepage            = "main"                        # What to call the home page link
     footerText          = "UC DATA201 version 2018"
 
 # Metadata
-    description         = "A new Hugo site."            # Max 160 characters show in search results
+    description         = "Data Wrangling UC DATA201"            # Max 160 characters show in search results
     twitterCard         = "summary_large_image"         # Card value “summary”, “summary_large_image”, “app”, or “player”
     primaryImage        = "/tn.png"                     # Image that shows on Twitter cards and OpenGraph links
 
